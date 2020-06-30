@@ -1,6 +1,6 @@
 {
   "name": "vw-services-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Partial port of https://github.com/robinostlund/volkswagencarnet for node",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

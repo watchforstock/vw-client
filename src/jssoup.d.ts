@@ -1,1 +1,1 @@
-declare module "jssoup";
+declare module 'jssoup';
